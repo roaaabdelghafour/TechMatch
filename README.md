@@ -1,8 +1,8 @@
 # 💻 TechMatch
 
-AI-powered laptop recommendation system using RAG and Streamlit.
-## 🚀 Live Demo
+AI-powered laptop recommendation assistant.
 
+## 🚀 Live Demo
 🔗 [Open TechMatch](https://techmatch-5hpbgsbm5ynrb2rkgm4vae.streamlit.app/)
 
 ## 💡 Project Idea
